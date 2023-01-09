@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <title>Monguilhott</title>
@@ -13,13 +13,13 @@
 
     <header>
         <div class="logo">
-            <a href=""><img src="images/logo.png" /></a>
+            <a href="../index.php"><img src="images/logo.png" /></a>
         </div>
         <div class="menu">
             <ul>
-                <li><a href="projetos">Projetos</a></li>
-                <li><a href="contato">Contato</a></li>
-                <li><a href="">Início</a></li>
+                <li class="selected"><a href="../projetos.php">Projetos</a></li>
+                <li><a href="../contato.php">Contato</a></li>
+                <li><a href="../index.php">Início</a></li>
             </ul>
         </div>
         <div class="botaomenu">
@@ -54,9 +54,9 @@
                 <h2>Hx Info</h2>
                 <div class="footermenu">
                     <ul>
-                        <li><a href="projetos">Projetos</a></li>
-                        <li><a href="contato">Contato</a></li>
-                        <li><a href="">Início</a></li>
+                        <li class="selected"><a href="../projetos.php">Projetos</a></li>
+                        <li><a href="../contato.php">Contato</a></li>
+                        <li><a href="../index.php">Início</a></li>
                     </ul>
                 </div>
                 <a href=""><i class="fa fa-arrow-up">Voltar ao topo</i></a>

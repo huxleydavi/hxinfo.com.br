@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <title>RM Veículos</title>
+    <title>Aristótles Botinas</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link href="css/style.css" rel="stylesheet" />
@@ -17,9 +17,9 @@
         </div>
         <div class="menu">
             <ul>
-                <li class="selected"><a href="../projetos.php">Projetos</a></li>
-                <li><a href="../contato.php">Contato</a></li>
-                <li><a href="../index.php">Início</a></li>
+                <li><a href="projetos">Projetos</a></li>
+                <li><a href="contato">Contato</a></li>
+                <li><a href="">Início</a></li>
             </ul>
         </div>
         <div class="botaomenu">
@@ -30,11 +30,11 @@
     <section class="home">
         <div class="container">
             <div class="title">
-                <h2><x>RM</x> <z>Veículos.</z></h2>
-                <p>Divulgação de Carros Especiais</p>
+                <h2><x>Aristótles</x> <z>Botinas.</z></h2>
+                <p>Amostra de Catálogo, Produtos e Contato</p>
             </div>
             <div class="homeimg">
-                <img src="images/rmveiculos.jpg" />
+                <img src="images/aribot.jpg" />
             </div>
             <div class="homefooter">
                 <div class="homefootertext">
@@ -54,9 +54,9 @@
                 <h2>Hx Info</h2>
                 <div class="footermenu">
                     <ul>
-                        <li class="selected"><a href="../projetos.php">Projetos</a></li>
-                        <li><a href="../contato.php">Contato</a></li>
-                        <li><a href="../index.php">Início</a></li>
+                        <li><a href="projetos">Projetos</a></li>
+                        <li><a href="contato">Contato</a></li>
+                        <li><a href="">Início</a></li>
                     </ul>
                 </div>
                 <a href=""><i class="fa fa-arrow-up">Voltar ao topo</i></a>

@@ -94,6 +94,11 @@ header{
     color: rgb(85, 85, 85);;
 }
 
+.menu > ul > li.selected > a,
+.footermenu > ul > li.selected > a{
+    color: rgb(85, 85, 85);
+}
+
 .botaomenu{
 }
 
