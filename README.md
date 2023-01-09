@@ -1,4 +1,4 @@
 # hxinfo
-Website presentation of the page along with the store.
+Presentation of the website of the page along with the products.
 
 ![](/preview.png)
