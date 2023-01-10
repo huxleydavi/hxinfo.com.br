@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <title>Aristótles Botinas</title>
@@ -13,7 +13,7 @@
 
     <header>
         <div class="logo">
-            <a href="../index.php"><img src="images/logo.png" /></a>
+            <a href=""><img src="images/logo.png" /></a>
         </div>
         <div class="menu">
             <ul>

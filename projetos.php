@@ -100,11 +100,11 @@
                 </div>
 
                 <div class="sprojetos-single">
-                    <a href="pages/monguilhott.php"><img src="images/mong.jpg"/></a>
+                    <a href="pages/becacol.php"><img src="images/beca.jpg"/></a>
                 </div>
 
                 <div class="sprojetos-single">
-                    <a href="pages/metaloop.php"><img src="images/meta.jpg"/></a>
+                    <a href="pages/aribot.php"><img src="images/ari.jpg"/></a>
                 </div>
 
                 <div class="sprojetos-single">
@@ -116,11 +116,11 @@
                 </div>
 
                 <div class="sprojetos-single">
-                    <a href="pages/aribot.php"><img src="images/ari.jpg"/></a>
+                    <a href="pages/metaloop.php"><img src="images/meta.jpg"/></a>
                 </div>
 
                 <div class="sprojetos-single">
-                    <a href="pages/.php"><img src="images/mountain.jpg"/></a>
+                    <a href="pages/monguilhott.php"><img src="images/mong.jpg"/></a>
                 </div>
 
             </div>
